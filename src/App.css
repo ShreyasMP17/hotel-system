@@ -1,0 +1,14 @@
+.App{
+  background-color: bisque;
+  margin-top: 0px;
+}
+.App h2{
+  margin-top: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 40px;
+  color: bisque;
+  background-color: rgb(50, 43, 43);
+  
+}

@@ -1,0 +1,21 @@
+.mainn h1{
+margin-left: 40px;
+}
+.rest{
+
+    display: flex;
+    justify-content: space-around;
+    padding:10px 40px 40px 30px;
+    text-align: center;
+    font-size: small;
+    text-align: center;
+}
+.rest img{
+    height: 100px;
+    width: 100px;
+    margin-left: 30px;
+}
+.rest button{
+    margin-left: 30px;
+
+}
